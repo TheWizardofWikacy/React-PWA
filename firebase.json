@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "build",
+    "site": "wikacy-instant-book",
     "ignore": [
       "firebase.json",
       "**/.*",
